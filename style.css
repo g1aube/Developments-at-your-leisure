@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(121, 105, 76);
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result {
+    position: absolute;
+    height: 500px;
+    font-size: 8em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blanchedalmond;
+}
+
+.click-me {
+    font-size: 5em;
+    border-radius: 15%;
+}
